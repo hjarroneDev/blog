@@ -1,0 +1,11 @@
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/blog
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hjsrrone/Projectos/Flutter/blog/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
